@@ -16,3 +16,5 @@ My notes for learning GitHub, AI and programming.
 - 注册 GitHub 账号
 - 创建第一个仓库
 - 修改 README
+
+## 我开始使用 GitHub Desktop 了
